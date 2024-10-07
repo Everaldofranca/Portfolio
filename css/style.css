@@ -1,7 +1,10 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
 
-
-body{ background-color: rgb(246, 242, 242);
-    
-
-
+body{
+    background-color: aqua(71, 214, 36);
+    height: 100vh;
 }
