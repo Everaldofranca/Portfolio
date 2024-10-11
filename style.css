@@ -142,4 +142,22 @@ section.topo-do-site .flex{
     border-radius: 25px;
     box-shadow: #3a5f6f 4px 4px;
 }
-
+body .praca{
+    width: 120px;
+    margin-left: 40%;
+    
+}
+body ol{
+    margin-left: 40%;
+    margin-bottom: 50px;
+}
+body h2{
+    margin-left: 40%;
+}
+.aurora{
+    margin-left: 40%;
+    margin-bottom: 50px;
+}
+body h3{
+    margin-left: 3%;  
+}
